@@ -1,0 +1,13 @@
+
+[init]
+defaultBranch = main
+
+[merge]
+ff = false
+
+[pull]
+rebase = false
+
+[fetch]
+showForcedUpdates = true
+prune = true
